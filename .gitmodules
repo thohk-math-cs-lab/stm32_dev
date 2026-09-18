@@ -1,0 +1,3 @@
+[submodule "vendor/guide"]
+	path = vendor/guide
+	url = https://github.com/cpq/bare-metal-programming-guide
